@@ -1,0 +1,3 @@
+My name is Asmita.
+I am learning Git.
+Git helps track changes in code.
