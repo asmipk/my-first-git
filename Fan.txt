@@ -8,5 +8,4 @@ The tutorial can show examples for GitHub, GitLab, or Bitbucket.
 
 The Git commands are mostly the same, but some steps (like connecting to a remote or pushing code) might look a little different depending on the platform you choose.
 
-Use the menu to see examples for each platform.
-
+Use the menu to see examples for each .
